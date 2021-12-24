@@ -1,0 +1,22 @@
+{
+  "name": "ampere-3-dev",
+  "version": "3.3.1",
+  "description": "ampere, now on djs v13",
+  "main": "ampere.js",
+  "scripts": {
+    "start": "node ampere.js"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "hypa",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "discord.js": "^13.1.0",
+    "emoji-set": "^1.0.3",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "wokcommands": "^1.5.1"
+  }
+}
